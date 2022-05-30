@@ -49,7 +49,7 @@ export default class BudgetTracker{
 									
 									
 									
-					</table>
+					</table>`;
 						
 				}
 				static entryHtml(){
